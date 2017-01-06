@@ -19,6 +19,6 @@
  - PHPUnit: https://phpunit.de/
  - SensiolabsInsight: https://insight.sensiolabs.com/
 
-# Contatos Canal
+# Contatos do canal
  - E-mail: hackershousebr@gmail.com
  - Twitter: [@hackershousebr](https://twitter.com/hackershousebr)
