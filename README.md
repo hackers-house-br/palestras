@@ -17,7 +17,7 @@ Contém a lista com todas as palestras já realizadas no canal.
       - Palestrante: Duodraco (Anderson Casimiro)
  - [5º Edição](https://github.com/hackers-house-br/palestras/blob/master/5_edicao.md)
       - Tema: "Refatoração" 
-      - Davi Marcondes Moreira
+      - Palestrante: Davi Marcondes Moreira
 
 # Contato
  - E-mail: hackershousebr@gmail.com
