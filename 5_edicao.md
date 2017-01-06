@@ -7,7 +7,7 @@
  - Tema: “Refatoração”
  - Palestrante: Davi Marcondes Moreira
  - Twitter: https://twitter.com/devdrops
- - Site: devdrops.me
+ - Site: [devdrops.me](http://www.devdrops.me/)
  - GitHub: https://github.com/devdrops
  - Comunidade: http://phpdojeitocerto.tumblr.com/
  - Link dos slides: https://docs.google.com/presentation/d/1myN5bMo_RSPeUWT6vW1XM0HHamWq4HnHAReA80gMuJ4/edit#slide=id.p
@@ -21,4 +21,4 @@
 
 # Contatos Canal
  - E-mail: hackershousebr@gmail.com
- - Twitter: @hackershousebr
+ - Twitter: [@hackershousebr](https://twitter.com/hackershousebr)
