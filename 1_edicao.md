@@ -12,6 +12,6 @@
  - Site pessoal: http://wfsilva.com
  - Slides: https://speakerdeck.com/wsilva/comecando-com-o-docker-hackerhousebr
 
-# Contatos Canal
+# Contatos do canal
  - E-mail: hackershousebr@gmail.com
  - Twitter: [@hackershousebr](twitter.com/hackershousebr)
