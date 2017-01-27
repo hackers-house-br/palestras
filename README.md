@@ -19,6 +19,11 @@ Contém a lista com todas as palestras já realizadas no canal.
       - Tema: "Refatoração" 
       - Palestrante: Davi Marcondes Moreira
 
+# Palestras 2017
+ - [6º Edição](https://github.com/hackers-house-br/palestras/blob/master/6_edicao.md) 
+     - Tema: "Criptografia: Entendendo o HTTPS"
+     - Palestrante: Diego Hernandes
+
 # Contato
  - E-mail: hackershousebr@gmail.com
  - Twitter: [@hackershousebr](twitter.com/hackershousebr)
