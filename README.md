@@ -23,6 +23,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [6º Edição](https://github.com/hackers-house-br/palestras/blob/master/6_edicao.md) 
      - Tema: "Criptografia: Entendendo o HTTPS"
      - Palestrante: Diego Hernandes
+ - [7º Edição](https://github.com/hackers-house-br/palestras/blob/master/7_edicao.md) 
+     - Tema: "Mercado de Trabalho"
+     - Palestrante: Fabio Vedovelli
 
 # Contato
  - E-mail: hackershousebr@gmail.com
