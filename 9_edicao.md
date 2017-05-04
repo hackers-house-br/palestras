@@ -32,6 +32,7 @@ Slides: http://slides.com/vazdanilo/ember#/
 - https://www.twitch.tv/
 - https://travis-ci.org/
 - https://www.intercom.com/
+- http://jsonapi.org/
 
 # Contatos Canal
 Site: https://hackers-house-br.github.io/
