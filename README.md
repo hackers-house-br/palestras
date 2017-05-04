@@ -29,6 +29,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [8º Edição](https://github.com/hackers-house-br/palestras/blob/master/8_edicao.md) 
      - Tema: "Vue.js e Single Page Applications: O que saber antes de começar"
      - Palestrante: Fabio Vedovelli
+ - [9º Edição](https://github.com/hackers-house-br/palestras/blob/master/9_edicao.md) 
+     - Tema: "Ember.js: Por que você ainda não está usando?"
+     - Palestrante: Danilo Vaz
 
 # Contato
  - E-mail: hackershousebr@gmail.com
