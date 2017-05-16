@@ -32,6 +32,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [9º Edição](https://github.com/hackers-house-br/palestras/blob/master/9_edicao.md) 
      - Tema: "Ember.js: Por que você ainda não está usando?"
      - Palestrante: Danilo Vaz
+ - [10º Edição](https://github.com/hackers-house-br/palestras/blob/master/10_edicao.md) 
+     - Tema: "Training Center"
+     - Palestrante: Training Center
 
 # Contato
  - E-mail: hackershousebr@gmail.com
