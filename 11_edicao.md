@@ -1,4 +1,4 @@
-> Palestra realizada dia 15/05/2017 no canal [HHBR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw)
+> Palestra realizada dia 20/06/2017 no canal [HHBR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw)
 
 # Gravação da palestra
 [![Alt text](https://i.ytimg.com/vi/2CN3eV_tavM/hqdefault.jpg)](https://www.youtube.com/watch?v=2CN3eV_tavM)
