@@ -35,6 +35,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [10º Edição](https://github.com/hackers-house-br/palestras/blob/master/10_edicao.md) 
      - Tema: "Training Center"
      - Palestrante: Training Center
+ - [11º Edição](https://github.com/hackers-house-br/palestras/blob/master/11_edicao.md) 
+     - Tema: "Bolt uma alternativa ao Wordpress"
+     - Palestrante: Jack Makiyama
 
 # Contato
  - E-mail: hackershousebr@gmail.com
