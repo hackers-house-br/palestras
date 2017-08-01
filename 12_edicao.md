@@ -38,6 +38,10 @@ slides: https://docs.google.com/presentation/d/1AHAvXOgkLBZuTmVMP574nXEcO0Dw-DHG
     - [Eu Programador:](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
     - [Gopherconbrasil](https://www.youtube.com/channel/UCGFVA_XvkUoMWpKVH0IrjUA)
     - [Cesar Gimenes](https://www.youtube.com/channel/UCxRoRvJi7NbC2boKAV70t_g)
+- Editores/IDE
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Sublime Text](https://www.sublimetext.com/3)
+    - [vim-go](https://github.com/fatih/vim-go)
 
 # Contatos Canal
 Canal Youtbe: [hhbr](https://youtube.com/hhbrtech)
