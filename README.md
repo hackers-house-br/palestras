@@ -38,7 +38,11 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [11º Edição](https://github.com/hackers-house-br/palestras/blob/master/11_edicao.md) 
      - Tema: "Bolt uma alternativa ao Wordpress"
      - Palestrante: Jack Makiyama
+ - [12º Edição](https://github.com/hackers-house-br/palestras/blob/master/12_edicao.md) 
+     - Tema: "Por que Golang?"
+     - Palestrante: Eliseu Codinhoto (@zeucxb)
 
 # Contato
+ - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
  - E-mail: hackershousebr@gmail.com
  - Twitter: [@hackershousebr](twitter.com/hackershousebr)
