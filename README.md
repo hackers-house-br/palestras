@@ -41,6 +41,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [12º Edição](https://github.com/hackers-house-br/palestras/blob/master/12_edicao.md) 
      - Tema: "Por que Golang?"
      - Palestrante: Eliseu Codinhoto (@zeucxb)
+ - [13º Edição](https://github.com/hackers-house-br/palestras/blob/master/13_edicao.md) 
+     - Tema: "Bate papo sobre carreira, programação e comunidade."
+     - Palestrante: Henrique Bastos
 
 # Contato
  - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
