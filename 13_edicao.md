@@ -7,7 +7,7 @@
 
 Tema: "HHBR: 13 - Henrique Bastos"
 
-Palestrante: Henrique Bastos
+Palestrante: Bate papo sobre carreira, programação e comunidade.
 
 Site: http://henriquebastos.net/ 
 
