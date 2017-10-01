@@ -44,7 +44,10 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [13º Edição](https://github.com/hackers-house-br/palestras/blob/master/13_edicao.md) 
      - Tema: "Bate papo sobre carreira, programação e comunidade."
      - Palestrante: Henrique Bastos
-
+ - [14º Edição](https://github.com/hackers-house-br/palestras/blob/master/14_edicao.md) 
+     - Tema: "Iniciando com Composer"
+     - Palestrante: Diego Brocanelli
+     
 # Contato
  - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
  - E-mail: hackershousebr@gmail.com
