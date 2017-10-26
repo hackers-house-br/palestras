@@ -47,6 +47,9 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [14º Edição](https://github.com/hackers-house-br/palestras/blob/master/14_edicao.md) 
      - Tema: "Iniciando com Composer"
      - Palestrante: Diego Brocanelli
+ - [15º Edição](https://github.com/hackers-house-br/palestras/blob/master/15_edicao.md) 
+     - Tema: "SPL e Estrutura de Dados"
+     - Palestrante: Davi Marcondes Moreira     
      
 # Contato
  - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
