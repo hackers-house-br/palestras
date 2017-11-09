@@ -1,4 +1,4 @@
-# Repositório oficial do canal [HHBR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw)
+# Repositório oficial do canal [hhbr](http://youtube.com/hhbr-tech)
 
 Contém a lista com todas as palestras já realizadas no canal.
 
@@ -50,8 +50,12 @@ Contém a lista com todas as palestras já realizadas no canal.
  - [15º Edição](https://github.com/hackers-house-br/palestras/blob/master/15_edicao.md) 
      - Tema: "SPL e Estrutura de Dados"
      - Palestrante: Davi Marcondes Moreira     
+ - [16º Edição](https://github.com/hackers-house-br/palestras/blob/master/16_edicao.md) 
+     - Tema: "Contribuindo com o PHP e o PHP TestFest 2017"
+     - Palestrante: Rogerio Prado de Jesus
      
 # Contato
+ - Site: [http://hhbr.net.br](http://hhbr.net.br)
  - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
  - E-mail: hackershousebr@gmail.com
  - Twitter: [@hackershousebr](twitter.com/hackershousebr)
