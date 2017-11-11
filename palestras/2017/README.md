@@ -1,0 +1,35 @@
+# Palestras 2017
+
+- [6º Edição](https://github.com/hackers-house-br/6_edicao.md) 
+    - Tema: "Criptografia: Entendendo o HTTPS"
+    - Palestrante: Diego Hernandes
+- [7º Edição](https://github.com/hackers-house-br/7_edicao.md) 
+    - Tema: "Mercado de Trabalho"
+    - Palestrante: Fabio Vedovelli
+- [8º Edição](https://github.com/hackers-house-br/8_edicao.md) 
+    - Tema: "Vue.js e Single Page Applications: O que saber antes de começar"
+    - Palestrante: Fabio Vedovelli
+- [9º Edição](https://github.com/hackers-house-br/9_edicao.md) 
+    - Tema: "Ember.js: Por que você ainda não está usando?"
+    - Palestrante: Danilo Vaz
+- [10º Edição](https://github.com/hackers-house-br/10_edicao.md)
+    - Tema: "Training Center"
+    - Palestrante: Training Center
+- [11º Edição](https://github.com/hackers-house-br/11_edicao.md)
+    - Tema: "Bolt uma alternativa ao Wordpress"
+    - Palestrante: Jack Makiyama
+- [12º Edição](https://github.com/hackers-house-br/12_edicao.md)
+    - Tema: "Por que Golang?"
+    - Palestrante: Eliseu Codinhoto (@zeucxb)
+- [13º Edição](https://github.com/hackers-house-br/13_edicao.md)
+    - Tema: "Bate papo sobre carreira, programação e comunidade."
+    - Palestrante: Henrique Bastos
+- [14º Edição](https://github.com/hackers-house-br/14_edicao.md)
+    - Tema: "Iniciando com Composer"
+    - Palestrante: Diego Brocanelli
+- [15º Edição](https://github.com/hackers-house-br/15_edicao.md)
+    - Tema: "SPL e Estrutura de Dados"
+    - Palestrante: Davi Marcondes Moreira     
+- [16º Edição](https://github.com/hackers-house-br/16_edicao.md)
+    - Tema: "Contribuindo com o PHP e o PHP TestFest 2017"
+    - Palestrante: Rogerio Prado de Jesus
