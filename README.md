@@ -1,5 +1,5 @@
 <a href='http://hhbr.net.br'>
-<img src='img/logo_hhbr_horizontal_transparente.png' alt='logo hhbr'>
+<img src='img/logo_hhbr_horizontal_transparente.png' style='margin: 0 auto;' alt='logo hhbr'>
 </a>
 
 Repositório oficial de palestras do canal [hhbr](http://youtube.com/hhbr-tech).
