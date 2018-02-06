@@ -9,7 +9,7 @@
 - [3º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2016/3_edicao.md)
     - Tema: "Resolvendo os seus problemas web com Flask" 
     - Palestrante: Iury Alves
-- [4º Edição](/4_edicao.md)
+- [4º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2016/4_edicao.md)
     - Tema: "Por que PHP?" 
     - Palestrante: Duodraco (Anderson Casimiro)
 - [5º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2016/5_edicao.md)
