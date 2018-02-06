@@ -44,7 +44,7 @@ slides: https://docs.google.com/presentation/d/1AHAvXOgkLBZuTmVMP574nXEcO0Dw-DHG
     - [vim-go](https://github.com/fatih/vim-go)
 
 # Contatos Canal
-Canal Youtbe: [hhbr](https://youtube.com/hhbrtech)
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

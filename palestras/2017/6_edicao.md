@@ -11,6 +11,12 @@
  - GitHub: https://github.com/hernandev
  - Link dos slides: https://speakerdeck.com/hernandev/criptografia-como-funciona-o-https
 
-# Contatos do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](https://twitter.com/hackershousebr)
+# Contatos Canal
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

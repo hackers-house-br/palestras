@@ -20,7 +20,7 @@ GitHub: https://github.com/Diego-Brocanelli
 - https://getcomposer.org/
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

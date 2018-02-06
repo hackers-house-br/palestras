@@ -14,6 +14,12 @@
  - Curso de Flask: https://www.youtube.com/shared?ci=3e0...
  - Quokka Project: http://quokkaproject.org/
 
-# Contatos do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+# Contatos Canal
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

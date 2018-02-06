@@ -10,9 +10,12 @@
  - Site: http://www.vedovelli.com.br/
  - GitHub: https://github.com/vedovelli
 
-# Contatos do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](https://twitter.com/hackershousebr)
- 
-# Contatos Diego Brocanelli
- - Site: http://www.diegobrocanelli.com.br
+# Contatos Canal
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

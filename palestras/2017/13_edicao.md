@@ -24,7 +24,7 @@ GitHub: https://github.com/henriquebastos
 - http://smallactsmanifesto.org/
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

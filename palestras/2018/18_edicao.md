@@ -58,7 +58,7 @@ https://github.com/robertoachar/docker-mean
 https://github.com/robertoachar/docker-rabbitmq-node
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

@@ -21,7 +21,7 @@ LinkedIn: linkedin.com/in/jackmakiyama
 - https://twig.sensiolabs.org/
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

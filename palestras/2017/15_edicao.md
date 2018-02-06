@@ -23,7 +23,7 @@ Link dos slides: https://speakerdeck.com/devdrops/spl-estruturas-de-dados-hhbr
 
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 

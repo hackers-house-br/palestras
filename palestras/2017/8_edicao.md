@@ -31,11 +31,11 @@ GitHub: https://github.com/vedovelli
 - https://www.casadocodigo.com.br/products/livro-ecmascript6
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 
-Twitter: @hackershousebr
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
 
 # Contato Diego Brocanelli
 http://www.diegobrocanelli.com.br

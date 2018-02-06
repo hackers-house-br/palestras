@@ -12,6 +12,12 @@
  - Site pessoal: http://wfsilva.com
  - Slides: https://speakerdeck.com/wsilva/comecando-com-o-docker-hackerhousebr
 
-# Contatos do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+# Contatos Canal
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

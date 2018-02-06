@@ -12,5 +12,11 @@
  - Slides: https://speakerdeck.com/danilovaz/flexbox
 
 # Contatos Canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

@@ -28,6 +28,12 @@
  - Zend Expressive: https://zendframework.github.io/zend-expressive/
  - Zend Framework: https://zendframework.com/
 
-# Contatos do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+# Contatos Canal
+Site: http://hhbr.net.br/
+
+E-mail: hackershousebr@gmail.com
+
+Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Contato Diego Brocanelli
+http://www.diegobrocanelli.com.br

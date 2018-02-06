@@ -40,7 +40,7 @@ https://chat.stackoverflow.com/rooms/11/php
 https://www.youtube.com/watch?v=DyDCz1qYQGU&feature=youtu.be
 
 # Contatos Canal
-Site: https://hackers-house-br.github.io/
+Site: http://hhbr.net.br/
 
 E-mail: hackershousebr@gmail.com
 
