@@ -33,3 +33,6 @@
 - [16º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2017/16_edicao.md)
     - Tema: "Contribuindo com o PHP e o PHP TestFest 2017"
     - Palestrante: Rogerio Prado de Jesus
+- [17º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2017/17_edicao.md)
+    - Tema: "Primeiros passos com integração contínua"
+    - Palestrante: Iury Alves
