@@ -9,9 +9,12 @@ Repositório oficial de palestras do canal [hhbr](http://youtube.com/hhbr-tech).
 A comunidade hhbr é formada por profissionais que tem o intuito de transmitir o conhecimento de forma aberta, livre e gratúita.
 
 # Palestras
-
-- [2017](/palestras/2016) 
-- [2016](/palestras/2017) 
+- 2018
+    - [18º Edição](/palestras/2018/18_edicao.md)
+        - Tema: "Docker + Kubernetes + Minikube"
+        - Palestrante: Roberto Achar
+- [2017](/palestras/2017) 
+- [2016](/palestras/2016) 
 
 # Formas Para Contato
  - Site: [http://hhbr.net.br](http://hhbr.net.br)
