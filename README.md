@@ -10,6 +10,9 @@ A comunidade hhbr é formada por profissionais que tem o intuito de transmitir o
 
 # Palestras
 - 2018
+    - [19º Edição](/palestras/2018/19_edicao.md)
+        - Tema: "Soft skills para devs"
+        - Palestrante: Leonam Pereira Dias
     - [18º Edição](/palestras/2018/18_edicao.md)
         - Tema: "Docker + Kubernetes + Minikube"
         - Palestrante: Roberto Achar
