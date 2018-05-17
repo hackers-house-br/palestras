@@ -1,5 +1,8 @@
 # Palestras 2018
 
+- [21º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/21_edicao.md) 
+    - Tema: "Projeto Statik Stack"
+    - Palestrante: Roberto Achar
 - [20º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/20_edicao.md) 
     - Tema: "Faculdade na área da TI"
     - Palestrante: Caio Andrade de Sousa, Diego Brocanelli e Vinícius Martins.
