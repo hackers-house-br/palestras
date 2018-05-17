@@ -10,6 +10,9 @@ A comunidade hhbr é formada por profissionais que tem o intuito de transmitir o
 
 # Palestras
 - 2018
+    - [21º Edição](/palestras/2018/21_edicao.md)
+        - Tema: "Projeto Statik Stack"
+        - Palestrante: Roberto Achar
     - [20º Edição](/palestras/2018/20_edicao.md)
         - Tema: "Faculdade na área da TI"
         - Palestrante: Caio Andrade de Sousa, Diego Brocanelli e Vinícius Martins
