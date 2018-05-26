@@ -10,6 +10,9 @@ A comunidade hhbr é formada por profissionais que tem o intuito de transmitir o
 
 # Palestras
 - 2018
+    - [22º Edição](/palestras/2018/22_edicao.md)
+        - Tema: "Trabalho Remoto na Vida Real"
+        - Palestrante: Davi Marcondes Moreira
     - [21º Edição](/palestras/2018/21_edicao.md)
         - Tema: "Projeto Statik Stack"
         - Palestrante: Roberto Achar
