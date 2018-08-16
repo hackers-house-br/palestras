@@ -1,5 +1,9 @@
 # Palestras 2018
 
+
+- [23º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/23_edicao.md) 
+    - Tema: "Como aprender a aprender"
+    - Palestrante: Carol Soares
 - [22º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/22_edicao.md) 
     - Tema: "Trabalho Remoto na Vida Real"
     - Palestrante: Davi Marcondes Moreira
