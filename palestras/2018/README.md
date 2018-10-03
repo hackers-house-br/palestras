@@ -1,6 +1,12 @@
 # Palestras 2018
 
 
+- [25º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/25_edicao.md) 
+    - Tema: "Introdução a CQRS e Event Sourcing"
+    - Palestrante: Marcelo Santos
+- [24º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/24_edicao.md) 
+    - Tema: "Um bate papo sobre TI"
+    - Palestrantes: Diego Brocanelli e Roberto Achar
 - [23º Edição](https://github.com/hackers-house-br/palestras/blob/master/palestras/2018/23_edicao.md) 
     - Tema: "Como aprender a aprender"
     - Palestrante: Carol Soares
