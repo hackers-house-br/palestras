@@ -5,7 +5,7 @@
 
 # Dados da palestra
 
-Tema: “Projeto Statik Stack”
+Tema: “Um bate papo sobre TI”
 
 Palestrante: Roberto Achar
 
